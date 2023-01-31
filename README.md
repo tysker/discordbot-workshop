@@ -7,10 +7,7 @@ This workshop is intended for beginners, and is written in a simple, easy-to-fol
 
 - [Part I: Introduction](#part-i-introduction)
 - [Part II: Setup](#part-ii-setup)
-- [Part III: Ping Pong](#part-iii-hello-world)
-- [Part IV: Hello World!](#part-iii-hello-world)
-- [Part V: Hangman](#part-iv-hangman)
-
+- [Part III: Ping Pong](#part-iii-ping-pong)
 
 ## Part I: Introduction
 
@@ -104,6 +101,7 @@ Now that we’ve got the bot working, let’s make it do something useful. We’
 3. Send a message that says `ping`. If the bot responds with `Pong`, everything worked!
 4. If the bot didn’t respond, make sure you copied the token correctly and that you invited the bot to the server.
 5. If you’re still having trouble, ask for help in the [Discord.js server](https://discord.gg/bRCvFy9) or on the [repl.it Discord server](https://repl.it/discord).
+
 
 ## Part IV: Hangman
 
