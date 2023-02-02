@@ -8,6 +8,7 @@ This workshop is intended for beginners, and is written in a simple, easy-to-fol
 - [Part I: Introduction](#part-i-introduction)
 - [Part II: Setup](#part-ii-setup)
 - [Part III: Ping Pong](#part-iii-ping-pong)
+- [Part IV: Hangman](#part-iv-hangman)
 
 ## Part I: Introduction
 
